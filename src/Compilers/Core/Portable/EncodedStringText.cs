@@ -27,7 +27,8 @@ namespace Microsoft.CodeAnalysis.Text
         {
             try
             {
-                return PortableShim.Encoding.GetEncoding(1252);
+                // return PortableShim.Encoding.GetEncoding(1252);
+                return Encoding.GetEncoding(name: "Latin1");
             }
             catch (NotSupportedException)
             {
