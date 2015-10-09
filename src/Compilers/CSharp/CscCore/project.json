@@ -13,6 +13,7 @@
     "System.Diagnostics.Tools": "4.0.1-beta-23401",
     "System.Dynamic.Runtime": "4.0.11-beta-23401",
     "System.IO.FileSystem": "4.0.1-beta-23401",
+    "System.IO.MemoryMappedFiles": "4.0.0-beta-23401",
     "System.IO.Pipes": "4.0.0-beta-23401",
     "System.Linq": "4.0.1-beta-23401",
     "System.Private.Uri": "4.0.1-beta-23401",
